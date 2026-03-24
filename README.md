@@ -1,3 +1,7 @@
+> [!NOTE]
+> 이 도구는 다음 원본 프로젝트를 기반으로 합니다.
+> https://github.com/infinitymatryoshka/risuai-plugin-builder
+
 # RisuAI Plugin Development Tool
 
 TypeScript로 RisuAI 플러그인을 개발할 수 있는 빌드 도구입니다.
